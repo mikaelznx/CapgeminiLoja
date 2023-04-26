@@ -1,6 +1,6 @@
 .footer {
-    background-color: var(--light-gray);        
-    color: var(--gray);
+    background-color: blue;        
+    color: lightblue;
     font-size: 18px;
 }
 
